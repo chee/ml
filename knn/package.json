@@ -1,0 +1,17 @@
+{
+  "name": "knn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chee <chee@snaek.org> (https://snaek.org/)",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^1.1.7",
+    "ml-knn": "^2.1.0",
+    "prompt": "^1.0.0",
+    "ramda": "^0.24.1"
+  }
+}
