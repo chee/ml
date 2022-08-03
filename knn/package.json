@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "chee <chee@snaek.org> (https://snaek.org/)",
+  "author": "chee <yay@chee.party> (https://chee.party/)",
   "license": "ISC",
   "dependencies": {
     "csvtojson": "^1.1.7",
